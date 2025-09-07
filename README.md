@@ -78,14 +78,13 @@ The dataset includes logistics delivery records with the following key columns:
 - Pivot Tables & Charts  
 - KPI Design  
 - Dashboard Development (with Slicers & Filters)  
-- Advanced Excel Functions (IF, VLOOKUP, INDEX-MATCH, Conditional Formatting)  
+- Advanced Excel Functions (IF, VLOOKUP, INDEX-MATCH, Conditional Formatting, charts, Pivot Tables)  
 
 ---
 
-## 📸 Dashboard Preview  
+## 📸 Dashboard and Dataset - Click on View Raw 
 
-![Dashboard Screenshot](dashboard/screenshots/dashboard_preview.png)  
-
+![Dashboard And Dataset](https://github.com/Yaqub-123/Logistics-Delivery-Efficiency-and-Delay-Analysis-/blob/main/Dataset%20Cleanned%20and%20Dashboard.xlsx)  
 ---
 
 ## 📂 Repository Contents  
@@ -102,5 +101,5 @@ This project demonstrates how **Excel alone** can be used for:
 ✅ Data Cleaning  
 ✅ Exploratory Analysis  
 ✅ Visualization of KPIs  
-✅ Building an **Interactive Dashboard** for logistics operations.  
+✅ Building an **Dashboard** for logistics operations.  
 
